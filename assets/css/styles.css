@@ -151,23 +151,13 @@ svg {
   text-decoration: none;
 }
 
-.brand-mark {
+.brand-logo {
   width: var(--space-lg);
   height: var(--space-lg);
   border-radius: var(--radius-lg);
-  background:
-    linear-gradient(135deg, var(--color-primary), var(--color-secondary-container)),
-    var(--color-primary);
+  object-fit: contain;
+  background: var(--color-surface-container-lowest);
   box-shadow: var(--shadow-glass);
-  position: relative;
-}
-
-.brand-mark::after {
-  content: "";
-  position: absolute;
-  inset: var(--space-sm);
-  border: var(--size-border) solid color-mix(in srgb, var(--color-on-primary) 78%, transparent);
-  border-radius: var(--radius-full);
 }
 
 .nav-links {
