@@ -1,6 +1,6 @@
 # Touch
 
-Official public website for **Touch**, a mood-based social app developed by IJ Roy. The site provides product information, safety standards, legal policies, account deletion instructions, and contact details for users and platform reviewers.
+Official public website for **Touch**, an anonymous community app developed by IJ Roy. The site provides product information, safety standards, legal policies, account deletion instructions, and contact details for users and platform reviewers.
 
 ## Website
 
@@ -8,7 +8,7 @@ https://ij-roy.github.io/touch/
 
 ## About Touch
 
-Touch is designed for mood-based social expression through anonymous posts, mood reels, communities, post queues, and community chat. This repository contains the static GitHub Pages site used to explain the app and publish required public policy pages.
+Touch is designed for anonymous community participation through community feeds, anonymous posts, post queues, community chat, moderation, and reporting. This repository contains the static GitHub Pages site used to explain the app and publish required public policy pages.
 
 ## Pages
 
